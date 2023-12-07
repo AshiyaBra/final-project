@@ -1,0 +1,112 @@
+{
+    "categories": [
+        {
+            "title": "Dell",
+            "images": "images/dell.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "HP",
+            "images":"images/hp2.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "MAC",
+            "images":"images/mac1.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "ACER",
+            "images": "images/acer.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        }
+    ],
+    "trending-products": [
+        {
+            "title": "Vintage Dell",
+            "price": "$255.00",
+            "facts": "Vintage Dell computers, such as the Dell Dimension series, are remembered for their reliability and business-oriented design. They marked an era of practical desktop computing in the late '90s and early 2000s.",
+            "image": "images/g.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "HP Pavilion",
+            "price": "$335.00",
+            "facts": "HP's vintage computers, like the HP Pavilion series, are iconic for their sleek, all-in-one designs. These machines were favored for their performance and were often found in homes and offices during the early 2000s.",
+            "image": "images/hp4.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "iMac G3",
+            "price": "$150.00",
+            "facts": "The original iMac, with its colorful, translucent design, is a symbol of Apple's innovation in the late '90s. It not only revolutionized computer aesthetics but also brought cutting-edge technology to the consumer market.",
+            "image": "images/imac2.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "Acer Aspire",
+            "price": "$225.00",
+            "facts": "Acer's vintage computers, such as the Aspire and TravelMate series, were known for their affordability and versatility. They provided accessible computing options for a wide range of users.",
+            "image": "images/v.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "Dell Latitude",
+            "price": "$235.00",
+            "facts": "Dell's Latitude series of vintage laptops are renowned for their robust build quality and durability, making them popular choices among business professionals. These laptops are emblematic of Dell's commitment to reliability.",
+            "image": "images/h.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        },
+        {
+            "title": "HP Compaq Presario",
+            "price": "$135.00",
+            "facts": "HP's vintage Compaq Presario desktops and laptops offered users an array of options for both work and entertainment. They were prized for their performance and were prevalent in the early 2000s.",
+            "image": "images/h5.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/hp.html"
+        }
+    ],
+    "sales": [
+        {
+            "title": "iMac G3",
+            "price": "old $250.99 NOW $199.99",
+            "facts": "The iMac G3, with its distinctive, colorful, all-in-one design and translucent shells, remains a design icon in the world of computing. It signified Apple's return to innovation and was a key part of the company's resurgence in the late '90s.",
+            "image": "images/imac2.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Acer TravelMate",
+            "price": "old $290.99 NOW $99.99",
+            "facts": "Acer's vintage TravelMate laptops, with their practical design and decent performance, were valued by professionals and students looking for dependable computing solutions on the go.",
+            "image": "images/p.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Dell OptiPlex",
+            "price": "old $190.99 NOW $99.99",
+            "facts": "Dell's OptiPlex series of vintage desktop computers were favored by businesses for their reliability, efficient design, and scalability. They were commonly found in corporate environments throughout the 2000s.",
+            "image": "images/dell.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "HP OmniBook",
+            "price": "old $125.99 NOW $99.99",
+            "facts": "HP's vintage OmniBook laptops were notable for their lightweight and portable design, making them a choice for mobile professionals seeking productivity and connectivity on the road.",
+            "image": "images/hp3.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "iMac G4",
+            "price": "old $150.99 NOW $89.99",
+            "facts": "The iMac G4, known as the 'iLamp' or 'Luxo Lamp' iMac, was celebrated for its innovative articulating arm design, which allowed users to position the screen as desired. Its unique aesthetics set it apart in the early 2000s.",
+            "image": "images/imac1.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Acer Aspire One",
+            "price": "old $150.99 NOW $99.99",
+            "facts": "Acer's Aspire One series of vintage netbooks were small, lightweight, and affordable, catering to users seeking basic computing needs on a compact device. These netbooks were a part of the early 2000s shift toward ultraportable computing.",
+            "image": "images/8.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "cameras": [
+      {
+        "category": "Camera",
+        "name": "Canon AE-1",
+        "image": "images/can.jpg",
+        "price": 50.00,
+        "description": "The Canon AE-1 is a classic 35mm film SLR camera known for its iconic design and user-friendly features. It was first introduced in 1976 and became immensely popular among photographers for its innovative automatic exposure capabilities, making it a beloved choice for both amateurs and professionals.",
+        "link": "https://ashiyabra.github.io/projects/final/product1.html"
+      },
+      {
+        "category": "Camera",
+        "name": "Vintage Kodak",
+        "image": "images/kodak.jpg",
+        "price": 35.00,
+        "description": "The vintage Kodak camera, with its classic design and mechanical simplicity, evokes a sense of nostalgia and a bygone era of photography. These iconic cameras captured timeless moments on film, becoming cherished artifacts in the history of photography.",
+        "link": "https://ashiyabra.github.io/projects/final/product1.html"
+      }
+    ],
+    "audios": [
+      {
+        "category": "Audio",
+        "name": "Retro Radios",
+        "image": "images/retro.jpg",
+        "price": 45.00,
+        "description": "Retro radios evoke a sense of nostalgia with their classic designs and analog tuning dials, harking back to a bygone era of broadcasting. Their warm, vintage sound quality adds a touch of old-world charm to any modern listening experience.",
+        "link": "https://ashiyabra.github.io/projects/final/product1.html"
+      },
+      {
+        "category": "Audio",
+        "name": "Sony Headphones",
+        "image": "images/sony.jpg",
+        "price": 25.00,
+        "description": "Vintage Sony headphones are renowned for their timeless design and exceptional audio quality, making them a cherished collector's item among audio enthusiasts. These classic headphones evoke a sense of nostalgia and are a testament to Sony's enduring commitment to delivering superior sound experiences.",
+        "link": "https://ashiyabra.github.io/projects/final/product1.html"
+      }
+    ],
+    "trendingProducts": [
+      {
+        "name": "Retro Radios",
+        "image": "images/r1.jpg",
+        "price": 50.00,
+        "facts": "Retro radios, with their nostalgic design and warm, analog sound, evoke a sense of timeless charm and vintage elegance. These vintage audio devices have made a resurgence in popularity, appealing to both audiophiles and those seeking a touch of classic style in their homes. ",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      },
+      {
+        "name": "Vintage Handhled Cameras",
+        "image": "images/cam1.jpg",
+        "price": 43.00,
+        "facts": "Vintage handheld cameras evoke a sense of nostalgia with their timeless charm and manual controls, offering a tactile and authentic photography experience. These iconic devices, often featuring mechanical dials and film reels, harken back to a bygone era when capturing memories required a tangible connection between the photographer and their craft.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      },
+      {
+        "name": "Vintage Stereo",
+        "image": "images/r2.jpg",
+        "price": 100.00,
+        "facts": "Vintage stereos, cherished for their timeless aesthetics and warm analog sound, are a nostalgic gateway to the golden age of audio technology, capturing the essence of a bygone era. These classic audio systems, often adorned with wood veneer and analog dials, continue to be sought after by audiophiles and collectors alike.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      },
+      {
+        "name": "Vintage Film Camera",
+        "image": "images/cam2.jpg",
+        "price": 100.50,
+        "facts": "Vintage film cameras evoke a sense of nostalgia and a tactile connection to the art of photography, offering a unique and authentic shooting experience that has become increasingly rare in our digital age. These classic cameras, with their mechanical precision and rich history, continue to captivate photographers and collectors alike.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      }
+    ],
+    "sales": [
+      {
+        "name": "Vintage Canon Camrea",
+        "image": "images/a.jpg",
+        "oldPrice": 210.99,
+        "newPrice": 110.99,
+        "facts": "Vintage Canon cameras, such as the Canon AE-1, are celebrated for their timeless design and pioneering technologies. These classics from the 1970s and 1980s remain highly sought after by photographers and collectors alike.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      },
+      {
+        "name": "Kodak",
+        "image": "images/b.jpg",
+        "oldPrice": 310.99,
+        "newPrice": 153.99,
+        "facts": "Kodak, a photography industry pioneer, produced iconic vintage cameras like the Kodak Brownie, which introduced millions to amateur photography. These cameras capture the essence of a bygone era and are cherished for their simplicity and charm.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      },
+      {
+        "name": "Canon A-1",
+        "image": "images/c.png",
+        "oldPrice": 89.99,
+        "newPrice": 60.99,
+        "facts": "Canon's A-1, a vintage 35mm SLR, is renowned for its versatility and was a favorite among photography enthusiasts. It was the first camera to incorporate automatic exposure and manual controls, making it a game-changer in its time.",
+        "link": "https://ashiyabra.github.io/projects/final/product1.html"
+      },
+      {
+        "name": "Kodak Retina",
+        "image": "images/d.png",
+        "oldPrice": 65.99,
+        "newPrice": 55.99,
+        "facts": "The Kodak Retina series, known for its compact folding design, exemplifies Kodak's commitment to innovation. These vintage cameras are prized for their sharp lenses and robust build quality.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+      }
+    ]
+  }
+  

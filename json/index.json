@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kodak Camera",
+        "image": "images/kodak.jpg",
+        "description": "The vintage Kodak camera, with its classic design and mechanical simplicity, evokes a sense of nostalgia and a bygone era of photography. These iconic cameras captured timeless moments on film, becoming cherished artifacts in the history of photography.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+        "name": "iPad",
+        "image": "images/ipad.jpg",
+        "description": "The vintage iPad, released in 2010, was a pioneering device that marked the beginning of the tablet era, featuring a 9.7-inch display and running on iOS 3. With its iconic design and limited processing power by today's standards, it serves as a nostalgic reminder of the early days of Apple's tablet innovation.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+        "name": "HP Computer",
+        "image": "images/hp.jpg",
+        "description": "Vintage HP computers, such as the HP 9100A introduced in 1968, were pioneering machines known for their innovative use of reverse Polish notation and played a significant role in early scientific and engineering calculations. These retro HP computers are now sought after by collectors and enthusiasts for their historical significance and robust design.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+        "name": "Sony Headphones",
+        "image": "images/sony.jpg",
+        "description": "Vintage Sony headphones are renowned for their timeless design and exceptional audio quality, making them a cherished collector's item among audio enthusiasts. These classic headphones evoke a sense of nostalgia and are a testament to Sony's enduring commitment to delivering superior sound experiences.",
+        "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    }
+]

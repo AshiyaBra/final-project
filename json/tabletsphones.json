@@ -1,0 +1,103 @@
+{
+  "tablets": [
+    {
+      "category": "Tablets",
+      "name": "iPad",
+      "image": "images/ipad.jpg",
+      "price": 150.00,
+      "description": "The vintage iPad, released in 2010, was a pioneering device that marked the beginning of the tablet era, featuring a 9.7-inch display and running on iOS 3. With its iconic design and limited processing power by today's standards, it serves as a nostalgic reminder of the early days of Apple's tablet innovation.",
+      "previewImage": "images/ipad 2.jpg",  
+      "previewDescription": "The vintage iPad, released in 2010, was a pioneering device that marked the beginning of the tablet era, featuring a 9.7-inch display and running on iOS 3. With its iconic design and limited processing power by today's standards, it serves as a nostalgic reminder of the early days of Apple's tablet innovation."
+    },
+    {
+      "category": "Tablets",
+      "name": "Samsung Tablet",
+      "image": "images/sam.jpg",
+      "price": 35.00,
+      "description": "Older Samsung tablets, such as the Galaxy Tab S2, were known for their slim and lightweight design, making them highly portable and easy to carry. However, their performance and software capabilities may be outdated compared to newer tablet models.",
+      "link": "https://ashiyabra.github.io/projects/final/product.html"
+    }
+  ],
+  "phones": [
+    {
+      "category": "Phones",
+      "name": "Vintage Phone",
+      "image": "images/ph1.jpg",
+      "price": 60.00,
+      "description": "Vintage phones, characterized by their classic designs and rotary dials, evoke a sense of nostalgia and charm from a bygone era. These relics of communication history serve as a testament to the evolution of technology and the enduring appeal of retro aesthetics.",
+      "link": "https://ashiyabra.github.io/projects/final/product.html"
+    },
+    {
+      "category": "Phones",
+      "name": "iPhone 4",
+      "image": "images/ph2.jpg",
+      "price": 50.00,
+      "description": "The iPhone 4, released in 2010, was known for its iconic glass and metal design, setting a new standard for smartphone aesthetics at the time. While it introduced features like the Retina display and FaceTime, it is considered a relic of the past in the fast-evolving world of smartphones.",
+      "link": "https://ashiyabra.github.io/projects/final/product.html"
+    }
+  ],
+  "trendingProducts": [
+    {
+      "name": "Mobile Landline Phone",
+      "image": "images/ph3.jpg",
+      "price": 34.00,
+      "facts": "In the 1960s, mobile landline phones were a remarkable innovation, allowing people to make and receive calls from their cars for the first time.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "Office Phone",
+      "image": "images/ph4.jpg",
+      "price": 43.00,
+      "facts": "Office phones are traditional communication devices commonly found in workplaces, offering reliable voice communication and often featuring functions such as call forwarding and voicemail.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "Home Phone",
+      "image": "images/ph5.jpg",
+      "price": 56.00,
+      "facts": "In the 1950s, home phones were a ubiquitous household item, characterized by their rotary dials and coiled cords, serving as a vital means of communication in an era before the widespread use of mobile devices.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "Old Electronic Tablet",
+      "image": "images/tab.jpg",
+      "price": 100.50,
+      "facts": "Old electronic tablets, like the early iPad models released in the late 2000s, had limited processing power and storage capacity compared to modern devices.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    }
+  ],
+  "sales": [
+    {
+      "name": "iPad Air Gen 1",
+      "image": "images/ipad3.jpg",
+      "oldPrice": 310.99,
+      "newPrice": 210.99,
+      "facts": "The iPad Air Gen 1, released in 2013, was a significant departure from the standard iPad design, featuring a sleek, thinner profile and a powerful A7 chip.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "iPhone 4",
+      "image": "images/iphone.jpg",
+      "oldPrice": 110.99,
+      "newPrice": 53.99,
+      "facts": "The iPhone 4, released in 2010, was known for its sleek design, Retina display, and the introduction of FaceTime video calling.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "Samsung Phone",
+      "image": "images/samph.jpg",
+      "oldPrice": 99.99,
+      "newPrice": 50.99,
+      "facts": "The first Samsung phone, the Samsung, was introduced in 2010, offering a 7-inch touchscreen display and marking Samsung's entry into the phone market.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    },
+    {
+      "name": "Kindle",
+      "image": "images/kin.jpg",
+      "oldPrice": 75.99,
+      "newPrice": 65.99,
+      "facts": "The first Kindle, released by Amazon in 2007, revolutionized the way people read books by introducing a portable e-reader with an E-ink display and wireless connectivity for downloading and storing digital books.",
+      "link": "https://ashiyabra.github.io/projects/final/sales.html"
+    }
+  ]
+}

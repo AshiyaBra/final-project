@@ -1,0 +1,130 @@
+{
+    "seventys": [
+        {
+            "title": "HP Pavilion Series",
+            "facts": "HP's vintage computers, like the HP Pavilion series, are iconic for their sleek, all-in-one designs. These machines were favored for their performance and were often found in homes and offices during the early 2000s.",
+            "image": "images/hp4.jpg"
+        },
+        {
+            "title": "HP Calculators (HP 35)",
+            "facts": "Vintage HP (Hewlett-Packard) calculators, like the HP 35 from the early 1970s, are revered for their precision and reliability, making them prized possessions among mathematicians and engineers.",
+            "image": "images/h5.jpg"
+        },
+        {
+            "title": "HP Oscilloscopes (HP 54600)",
+            "facts": "HP's early oscilloscopes, such as the HP 54600 series, were known for their cutting-edge technology and played a pivotal role in scientific research and electronics development during the mid-20th century.",
+            "image": "images/h.jpg"
+        },
+        {
+            "title": "HP 9830A Desktop Computer",
+            "facts": "The HP 9830A desktop computer, introduced in 1972, was an early example of an integrated personal computer and scientific calculator, offering a unique combination of capabilities for its time.",
+            "image": "images/hp3.jpg"
+        },
+        {
+            "title": "HP Test Equipment (HP 3586A)",
+            "facts": "Vintage HP test equipment, like the HP 3586A selective level meter, was a staple in telecommunications and RF (radio frequency) labs, celebrated for its accuracy and durability.",
+            "image": "images/hp2.jpg"
+        },
+        {
+            "title": "HP Model 200A Audio Oscillator",
+            "facts": "HP's first commercially successful product, the HP Model 200A audio oscillator from 1939, set the stage for the company's future as a leading technology provider.",
+            "image": "images/dell.jpg"
+        }
+    ],
+    "eightys": [
+        {
+            "title": "HP 9100A Calculator",
+            "facts": "The HP 9100A, released in 1968, was one of the first desktop calculators with scientific and engineering capabilities, marking a significant advancement in computation tools.",
+            "image": "images/dell1.jpg"
+        },
+        {
+            "title": "HP 9825A Desktop Computer",
+            "facts": "The HP 9825A, part of the 9800 series, was an early desktop computer that found applications in engineering, control systems, and data analysis during the 1970s.",
+            "image": "images/p.jpg"
+        },
+        {
+            "title": "HP Slide Rules (HP-10C)",
+            "facts": "HP's vintage slide rules, like the HP-10C, are collector's items, demonstrating the company's involvement in traditional and electronic calculation tools.",
+            "image": "images/8.jpg"
+        },
+        {
+            "title": "HP 1000 Series Minicomputers",
+            "facts": "The HP 1000 series minicomputers, introduced in the late 1960s, were pivotal in business and scientific computing, influencing later HP computer developments.",
+            "image": "images/acer.jpg"
+        },
+        {
+            "title": "HP-01 Wristwatch Calculator",
+            "facts": "HP's HP-01 wristwatch calculator, unveiled in 1977, was a pioneering wearable tech device, blending timekeeping with calculator functions in a compact design.",
+            "image": "images/acer1.jpg"
+        },
+        {
+            "title": "HP 9826 Desktop Computer",
+            "facts": "The HP 9826 desktop computer, released in the early 1980s, was a versatile tool for scientific and engineering applications, featuring a built-in CRT monitor.",
+            "image": "images/g.jpg"
+        }
+    ],
+    "ninetys": [
+        {
+            "title": "HP LaserJet Printers",
+            "facts": "Vintage HP printers, like the HP LaserJet series from the 1980s, set a standard for high-quality laser printing and became synonymous with office productivity.",
+            "image": "images/mac2.jpg"
+        },
+        {
+            "title": "HP 35s Scientific Calculator",
+            "facts": "The HP 35s scientific calculator, an homage to the classic HP 35, retains the RPN (Reverse Polish Notation) input method, maintaining the legacy of HP's calculators.",
+            "image": "images/v.jpg"
+        },
+        {
+            "title": "HP 9835 Desktop Computer",
+            "facts": "The HP 9835 desktop computer, introduced in 1977, offered advanced programming capabilities and was employed in various industrial and scientific fields.",
+            "image": "images/20.jpg"
+        },
+        {
+            "title": "HP Programmable Calculators (HP 65)",
+            "facts": "HP's vintage programmable calculators, such as the HP 65, introduced in 1974, were celebrated for their ability to store and execute custom programs.",
+            "image": "images/21.jpg"
+        },
+        {
+            "title": "HP 9820A Desktop Calculator",
+            "facts": "The HP 9820A desktop calculator, released in 1971, offered comprehensive mathematical and scientific capabilities in a sleek desktop unit.",
+            "image": "images/22.jpg"
+        },
+        {
+            "title": "HP 9831 Computer",
+            "facts": "The HP 9831 computer, released in the 1970s, found applications in laboratory automation, control systems, and scientific data analysis.",
+            "image": "images/23.jpg"
+        }
+    ],
+    "twoThousands": [
+        {
+            "title": "HP 48 Series Graphing Calculators",
+            "facts": "The HP 48 series graphing calculators, introduced in the 1990s, were popular among engineers and students for their advanced graphing and programming features.",
+            "image": "images/24.jpg"
+        },
+        {
+            "title": "HP Pen Plotters (HP 7475A)",
+            "facts": "HP's classic pen plotters, like the HP 7475A, were used for precise graphical output and have a place in the history of computer-aided design and drafting.",
+            "image": "images/25.jpg"
+        },
+        {
+            "title": "HP Scientific Instruments (HP 8640B Signal Generator)",
+            "facts": "Vintage HP scientific instruments, such as the HP 8640B signal generator, were highly regarded for their accuracy and precision in generating electronic signals.",
+            "image": "images/26.jpg"
+        },
+        {
+            "title": "HP 9100B Desktop Calculator",
+            "facts": "The HP 9100B desktop calculator, introduced in the late 1960s, improved upon its predecessor with enhanced programming capabilities and computational power.",
+            "image": "images/27.jpg"
+        },
+        {
+            "title": "HP 2116A Minicomputer",
+            "facts": "The HP 2116A, part of the HP 2100 series, was a successful early minicomputer used in various applications, including industrial process control.",
+            "image": "images/28.jpg"
+        },
+        {
+            "title": "HP Test and Measurement Instruments (HP 34401A Multimeter)",
+            "facts": "HP's legacy in test and measurement instruments, like the HP 34401A multimeter, is a testament to the company's commitment to precision and innovation in electronics and engineering fields.",
+            "image": "images/29.jpg"
+        }
+    ]
+}

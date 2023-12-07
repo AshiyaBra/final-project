@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>TTT - Contact Us</title>
+        <link rel="stylesheet" href="styles.css"> 
+        <script src="contactus.js"></script>
+    </head>
+
+    <body>
+
+     <header id="main-header">
+        <div class="header-content">
+            <a href="https://ashiyabra.github.io/projects/final/index/index.html"><img src="images/tttlogo.png"></a>
+        </div>
+            <select id="menuDropdown">
+                <option>Menu</option>
+                <option value="Add Device">Add Device</option>
+                <option value="sales">Sales</option>
+                <option value="device type">Device Type</option>
+                <option value="popular devices">Popular Devices</option>
+            </select>
+        </nav>
+        <div class="header-right">
+            <input type="text" placeholder="What device are you looking for?">
+        </div>
+        <nav id="main-nav">
+            <div id="hamburger" class="hamburger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <ul id="nav-pages" class="hide-small" >
+                <li><a href="https://ashiyabra.github.io/projects/final/index/index.html">Home</a></li>
+                <li><a href="https://ashiyabra.github.io/projects/final/tabletsphones/tabletsphones.html">Tablets/Phones</a></li>
+                <li><a href="https://ashiyabra.github.io/projects/final/cameraaudio/cameraaudio.html">Camera/Audio</a></li>
+                <li><a href="https://ashiyabra.github.io/projects/final/gamingsystems/gamingsystems.html">Gaming Systems</a></li>
+                <li><a href="https://ashiyabra.github.io/projects/final/computers/computers.html">Computers</a></li>
+                <li><a href="https://ashiyabra.github.io/projects/final/input/input.html">Add Device</a></li>
+                <li><a href="#">Contact us</a></li>
+            </ul>
+        </nav>
+        <div class="header-right">
+            <img src="images/shopping.png">
+        </div>
+    </header>
+    
+    <main id="main">
+            
+            <div id="form-container" class="colored-background">
+                <h2>Contact Us</h2>
+                <form id="form" action="https://api.web3forms.com/submit" method="POST">
+
+                    <input type="hidden" name="access_key" value="069e60ce-9774-421f-9fa6-d249e881d77d">
+                    
+                    <p>
+                        <label for="name">Name: </label>
+                        <input id="name" type="text" name="name" required>
+                    </p>
+                    <p>
+                        <label for="email">Email: </label>
+                        <input type="email" name="email" required>
+                    </p>
+                    <p>
+                        <label for="message">Message: </label>
+                        <textarea name="message" required></textarea>
+                    </p>
+                    
+                    <input type="hidden" name="redirect" value="https://web3forms.com/success">
+
+                    <p>
+                        <button type="submit">Submit Form</button>
+                    </p>
+
+                    <p id="result"></p>
+                </form>
+            </div>
+    </main>
+    </body>
+</html>
+          

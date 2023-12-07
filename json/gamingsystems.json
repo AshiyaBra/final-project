@@ -1,0 +1,113 @@
+{
+        "categories": [
+            {
+                "title": "PlayStation",
+                "images":"images/psp.jpg",
+                "link": "https://ashiyabra.github.io/projects/final/input/input.html"
+            },
+            {
+                "title": "XBOX",
+                "images": "images/xbox.jpg",
+                "link": "https://ashiyabra.github.io/projects/final/input/input.html"
+            },
+            {
+                "title": "Nintendo",
+                "images": "images/game.jpg",
+                "link": "https://ashiyabra.github.io/projects/final/input/input.html"
+            },
+            {
+                "title": "Wii",
+                "images": "images/wii.jpg",
+                "link": "https://ashiyabra.github.io/projects/final/input/input.html"
+            }
+        ],
+    "trending-products": [
+        {
+            "title": "Vintage PlayStation (PS1)",
+            "price": "$150.00",
+            "facts": "Vintage PlayStation consoles, like the original PlayStation (PS1), hold a special place in gaming history, offering a glimpse into the late 1990s gaming era. Their iconic gray design and classic titles are fondly remembered by gamers.",
+            "image": "images/ps1.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "PlayStation 2 (PS2)",
+            "price": "$250.00",
+            "facts": "The PlayStation 2 (PS2) is one of the best-selling consoles of all time, known for its vast library of games and DVD playback capabilities. Gamers have a deep affection for classics like Grand Theft Auto: San Andreas and Final Fantasy X.",
+            "image": "images/ps2.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Nintendo Game Boy",
+            "price": "$255.00",
+            "facts": "The Nintendo Game Boy, with its monochrome screen, brought portable gaming to the masses, becoming an '80s and '90s icon thanks to titles like Tetris and Pokemon.",
+            "image": "images/game.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Xbox One",
+            "price": "$135.00",
+            "facts": "The Xbox One, released in 2013, combined gaming and multimedia entertainment, though it faced initial criticisms for its always-online policies. Over time, it gained a dedicated fan base and contributed to the evolution of the Xbox brand.",
+            "image": "images/x.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "GameCube",
+            "price": "$215.00",
+            "facts": "The GameCube, with its unique design and handle for portability, provided memorable gaming experiences with titles like Super Smash Bros. Melee and The Legend of Zelda: The Wind Waker. It stands out as a beloved vintage Nintendo console.",
+            "image": "images/cube.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Nintendo Entertainment System (NES)",
+            "price": "$135.00",
+            "facts": "The Nintendo Entertainment System (NES) is a pioneer in home gaming, introducing iconic characters like Mario and Donkey Kong. Its vintage gray and black design is instantly recognizable to gamers of the '80s.",
+            "image": "images/nes.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        }
+    ],
+    "sales": [
+        {
+            "title": "PlayStation 3 (PS3)",
+            "price": "old $155.99 NOW $135.99",
+            "facts": "The PlayStation 3 (PS3), known for its robust multimedia capabilities and a vast library of exclusive games, introduced gamers to titles like The Last of Us and Uncharted. Its sleek design and technological innovations continue to be celebrated among collectors and enthusiasts.",
+            "image": "images/ps3.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Xbox 360",
+            "price": "old $165.99 NOW $135.99",
+            "facts": "Xbox 360, released in 2005, ushered in the HD gaming era and popularized online multiplayer through Xbox Live. Its reliability issues (the 'Red Ring of Death') are infamous, but it remains a significant part of gaming history.",
+            "image": "images/360.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Wii",
+            "price": "old $145.99 NOW $115.99",
+            "facts": "The Wii, with its motion-sensing controllers, transformed gaming experiences for families and friends. Titles like Wii Sports and Mario Kart Wii made it a must-have for social gaming gatherings, leaving a lasting impact on the gaming community.",
+            "image": "images/wii.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Nintendo 64 (N64)",
+            "price": "old $175.99 NOW $165.99",
+            "facts": "The Nintendo 64 (N64) is celebrated for its innovative 3D graphics and iconic games like Super Mario 64 and The Legend of Zelda: Ocarina of Time. This vintage console has a special place in the hearts of nostalgic gamers.",
+            "image": "images/64.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Super Nintendo Entertainment System (SNES)",
+            "price": "old $650.99 NOW $335.99",
+            "facts": "Nintendo's Super Nintendo Entertainment System (SNES) is a vintage gem that brought us classic games such as Super Mario World and The Legend of Zelda: A Link to the Past. Its distinctive purple and gray design remains an enduring symbol of the early '90s gaming culture.",
+            "image": "images/snes.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        },
+        {
+            "title": "Original XBOX",
+            "price": "old $150.99 NOW $99.99",
+            "facts": "The original Xbox, released in 2001, was Microsoft's entry into the console market and introduced features like a built-in hard drive and Xbox Live, revolutionizing online gaming. Gamers recall this vintage console for titles like Halo: Combat Evolved, which set the stage for a beloved franchise.",
+            "image": "images/o.jpg",
+            "link": "https://ashiyabra.github.io/projects/final/sales.html"
+        }
+    ]
+}
+

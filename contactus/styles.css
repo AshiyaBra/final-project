@@ -1,0 +1,404 @@
+/* Structure*/ 
+:root {
+  --back: #BDE3F2;
+  --hover:#5A98BF;
+  --main:#7BBADB;
+  --white: #012340;
+
+}
+body{
+  background-color:#085496;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Hamburger */
+#hamburger div{
+    width: 30px;
+    height: 5px;
+    background-color: var(--hover);
+    margin: 5px 0;
+}
+
+.hide-small{
+    display: none;
+}
+/* Navagation Pages */
+#nav-pages{
+  background-color:var(--back);
+  padding: 5px;
+  border-radius: 15px;
+}
+
+#nav-pages a{
+  text-decoration: none;
+  color:var(--hover);
+}
+
+#nav-pages a:hover{
+  color: var(--main);
+}
+
+#nav-pages li {
+  margin-right: 20px; 
+}
+/* Map */
+.map {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  width: 100%;   
+}
+
+/* Main Header */
+#main-header{
+  background-color:var(--back);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-right img {
+  margin-left: 10px; 
+}
+
+#main-header input[type="text"] {
+  padding: 5px;
+  border: 1px solid var(--white);
+  border-radius: 5px;
+  width: 300px; 
+  align-items: center;
+
+}
+/* Typography */
+h2{
+  text-align: start;
+  font-size: medium;
+    color:var(--white);
+}
+
+h4{
+  text-align: center;
+  font-size: x-large;
+    color:var(--white);
+}
+p{
+  font-size: small;
+  color:var(--white);
+}
+h1{
+  color:var(--white);
+}
+.bold{
+  font-weight: 1000;
+}
+/* Main Sales */
+.main-sales{
+  background-color: var(--back);
+  border-radius: 10px;
+}
+
+.columns{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.column {
+  flex: 5;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: var(--main);
+}
+
+.images {
+  max-width: 100%;
+  align-self: center;
+}
+
+
+/* Main Title */
+main .main-title{
+  border-bottom: 2px solid black; 
+  width: 100%;
+  text-align: start;
+  margin-bottom: 20px;
+}
+
+main img#image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* View All */
+footer {
+  padding-top: 30px; 
+  align-items: center;
+}
+
+#footer {
+  text-align: center; 
+}
+
+#button-view {
+  background-color: var(--back); 
+  color:var(--white); 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 10px; 
+  font-size: 16px; 
+  width: 1000px; 
+}
+
+#button-view:hover {
+  background-color: var(--main); 
+}
+/* Gaming Systems and Computers */
+.columns section {
+  
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:var(--main);
+  text-align: center;
+ 
+}
+
+.columns2 section {
+ 
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: var(--main);
+  text-align: center;
+  
+}
+
+/* Tablets/Phones and Cameras/Audio */
+.main-cat, .main-cat1{
+  background-color: var(--back);
+  border-radius: 10px;
+  flex: 1; 
+  margin: 0 5px;
+}
+#main-cat {
+  text-align: center; 
+}
+#main-container {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.columns2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#button-tabpho {
+  background-color: var(--main); 
+  color:var(--white); 
+  padding: 10px; 
+  border: none; 
+  border-radius: 10px; 
+  font-size: medium; 
+  width: 200px; 
+  height: 35px;
+}
+#button-tabpho:hover {
+  background-color: var(--back); 
+}
+
+/* Sales */
+#main-container1 {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.main-cat3{
+  align-items: center;
+}
+/*Product Pages*/
+.images1 {
+  max-width: 100%;
+  align-items: center;
+  border-radius: 10px;
+}
+
+#main-container2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 215px;
+}
+
+/* Input */
+.forms  {
+  background-color: var(--back);
+  border-radius: 10px;
+  width: 20%;
+  padding: 20px; 
+  text-align: center;
+  margin: 20px; 
+}
+
+.forms p {
+  margin: 10px 0; 
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  width: 100%;
+}
+
+ input[type="text"],
+ input[type="email"],
+ textarea {
+  width: 100%; 
+  margin: 5px 0; 
+  padding: 5px;
+  border: 1px solid var(--white);
+  border-radius: 5px;
+}
+
+/* Preview */
+#preview-back{
+  display: none; 
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: hsla(221, 88%, 67%, 0.356);
+}
+.content {
+  background-color: white;
+  margin: auto;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.content img {
+  max-width: fit-content;
+  display: block;
+  border-radius: 10px;
+  padding: 30px;
+  margin: auto;
+}
+
+.content p{
+  max-width:fit-content;
+  font-size: large;
+}
+.close {
+  color: black;
+  float: right;
+  font-size:30px;
+  padding: 0px 5px;
+  cursor: pointer;
+}
+
+/* Slideshow */
+#slideshow {
+  text-align: center; 
+}
+
+#slideshow .slide {
+  max-width: 100%;
+  align-items: center;
+}
+#content-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+.colored-background {
+    background-color: var(--back);
+    padding: 20px;
+    width: 20%;
+    margin: 10% auto; 
+    border-radius: 10px;
+}
+
+/*Larger Resolutions*/
+@media(min-width: 900px) {
+  #main-header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .header-content,
+  .header-right {
+    margin: 0;
+  }
+
+ #hamburger{
+    display: none;
+ }
+
+ .hide-small{
+    display: block;
+ }
+
+  #main-nav ul,.flex-container{
+      display: inline-flex; 
+  }
+
+  #main-nav li{
+      display: inline-flex;
+  }
+}
+
+@media (min-width: 894px) and (max-width: 1200px) {
+  #main-header {
+     flex-direction: column; 
+     align-items: flex-start;
+ }
+
+ .header-content,
+ .header-right {
+     margin: 10px 0;
+     text-align: center; 
+ }
+
+ .header-right img {
+     margin-left: 0; 
+ }
+}
+
+@media (max-width: 768px) {
+  #main-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .header-content,
+  .header-right {
+    margin: 10px 0;
+  }
+
+  #button-view {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 100%; 
+  } 
+  
+
+}

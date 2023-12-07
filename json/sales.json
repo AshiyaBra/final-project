@@ -1,0 +1,138 @@
+{
+      "tablets": [
+        {
+          "name": "Ipad",
+          "description": "Ipad",
+          "image": "images/ipad.jpg"
+        },
+        {
+          "description": "Samsung",
+          "image": "images/sam.jpg"
+        },
+        {
+          "description": "Others.",
+          "image": "images/tab1.jpg"
+        }
+      ],
+      "phones": [
+        {
+          "description": "Oldest",
+          "image": "images/ph1.jpg"
+        },
+        {
+          "description": "Newest",
+          "image": "images/ph2.jpg"
+        },
+        {
+          "name": "Old",
+          "description": "Description of an old phone.",
+          "image": "images/ph8.jpg"
+        }
+      ],
+      "cameras": [
+        {
+          "description": "Kodak.",
+          "image": "images/kodak.jpg"
+        },
+        {
+          "description": "Canon",
+          "image": "images/can.jpg"
+        },
+        {
+          "description": "Others",
+          "image": "images/cam4.jpg"
+        }
+      ],
+      "audios": [
+        {
+          "description": "Headphones",
+          "image": "images/sony.jpg"
+        },
+        {
+          "description": "Radios",
+          "image": "images/retro.jpg"
+        },
+        {
+          "description": "Stereos",
+          "image": "images/stereo.jpg"
+        }
+      ],
+      "gamingSystems": [
+        {
+          "name": "PlayStation 3 (PS3)",
+          "price": "old $155.99 NOW $135.99",
+          "description": " The PlayStation 3 (PS3), known for its robust multimedia capabilities and a vast library of exclusive games, introduced gamers to titles like The Last of Us and Uncharted. Its sleek design and technological innovations continue to be celebrated among collectors and enthusiasts.",
+          "image": "images/ps3.jpg"
+        },
+        {
+          "name": "Xbox 360",
+          "price": "old $165.99 NOW $135.99",
+          "description": "Xbox 360, released in 2005, ushered in the HD gaming era and popularized online multiplayer through Xbox Live. Its reliability issues (the Red Ring of Death) are infamous, but it remains a significant part of gaming history.",
+          "image": "images/360.jpg"
+        },
+        {
+          "name": "Wii",
+          "price": "old $145.99 NOW $115.99",
+          "description": "The Wii, with its motion-sensing controllers, transformed gaming experiences for families and friends. Titles like Wii Sports and Mario Kart Wii made it a must-have for social gaming gatherings, leaving a lasting impact on the gaming community.",
+          "image": "images/wii.jpg"
+        },
+        {
+          "name": "Nintendo 64 (N64)",
+          "price": "old $175.99 NOW $165.99",
+          "description": "The Nintendo 64 (N64) is celebrated for its innovative 3D graphics and iconic games like Super Mario 64 and The Legend of Zelda: Ocarina of Time. This vintage console has a special place in the hearts of nostalgic gamers.",
+          "image": "images/64.jpg"
+        },
+        {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "price": "old $650.99 NOW $335.99",
+          "description": "Nintendo's Super Nintendo Entertainment System (SNES) is a vintage gem that brought us classic games such as Super Mario World and The Legend of Zelda: A Link to the Past. Its distinctive purple and gray design remains an enduring symbol of the early '90s gaming culture.",
+          "image": "images/snes.jpg"
+        },
+        {
+          "name": "Original Xbox",
+          "price": "old $150.99 NOW $99.99",
+          "description": "The original Xbox, released in 2001, was Microsoft's entry into the console market and introduced features like a built-in hard drive and Xbox Live, revolutionizing online gaming. Gamers recall this vintage console for titles like Halo: Combat Evolved, which set the stage for a beloved franchise.",
+          "image": "images/o.jpg"
+        }
+      ],
+      "computers": [
+        {
+          "name": "iMac G3",
+          "price": "old $250.99 NOW $199.99",
+          "description": "The iMac G3, with its distinctive, colorful, all-in-one design and translucent shells, remains a design icon in the world of computing. It signified Apple's return to innovation and was a key part of the company's resurgence in the late '90s.",
+          "image": "images/imac2.jpg"
+        },
+        {
+          "name": "Acer TravelMate",
+          "price": " old $290.99 NOW $99.99",
+          "description": "Acer's vintage TravelMate laptops, with their practical design and decent performance, were valued by professionals and students looking for dependable computing solutions on the go.",
+          "image": "images/p.jpg"
+        },
+        {
+          "name": "Dell OptiPlex",
+          "price": " old $190.99 NOW $99.99",
+          "description": "Dell's OptiPlex series of vintage desktop computers were favored by businesses for their reliability, efficient design, and scalability. They were commonly found in corporate environments throughout the 2000s",
+          "image": "images/dell.jpg"
+        },
+        {
+          "name": "HP OmniBook",
+          "price": "old $125.99 NOW $99.99",
+          "description": "HP's vintage OmniBook laptops were notable for their lightweight and portable design, making them a choice for mobile professionals seeking productivity and connectivity on the road.",
+          "image": "images/hp3.jpg"
+        },
+        {
+          "name": "iMac G4",
+          "price": "old $150.99 NOW $89.99",
+          "description": "The iMac G4, known as the iLamp or Luxo Lamp iMac, was celebrated for its innovative articulating arm design, which allowed users to position the screen as desired. Its unique aesthetics set it apart in the early 2000s.",
+          "image": "images/imac1.jpg"
+        },
+        {
+          "name": "Acer Aspire One",
+          "price": "old $150.99 NOW $99.99",
+          "description": " Acer's Aspire One series of vintage netbooks were small, lightweight, and affordable, catering to users seeking basic computing needs on a compact device. These netbooks were a part of the early 2000s shift toward ultraportable computing.",
+          "image": "images/8.jpg"
+        }
+      ]
+    }
+
+  
